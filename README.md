@@ -17,10 +17,10 @@ It provides users with an intuitive interface to record transactions, categorize
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend/UI:** .NET MAUI / WPF / React (adjust to your actual stack)  
-- **Backend:** .NET Core / ASP.NET Core / Flask (adjust accordingly)  
-- **Database:** SQLite / PostgreSQL / MySQL  
-- **Other Tools:** Entity Framework Core, LINQ, Docker, Git  
+- **Frontend/UI:** .NET MAUI  + .NET Core 
+- **Backend:** ASP.NET Core
+- **Database:** SQLite
+- **Other Tools:** Entity Framework Core, LINQ, Git  
 
 ---
 
